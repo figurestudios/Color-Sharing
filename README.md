@@ -6,7 +6,7 @@
 You can try the latest official releases [here](https://abughadiyah.hns.siasky.net/)
 
 # Local Setup
-Fork from [here](https://github.com/figurestudios/SkyGameSDK);
+Fork this project;
 
 Run $ npm install -g serve
 
